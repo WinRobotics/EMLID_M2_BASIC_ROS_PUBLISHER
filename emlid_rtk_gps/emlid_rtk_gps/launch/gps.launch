@@ -1,0 +1,5 @@
+<launch>
+	
+	<node pkg="emlid_rtk_gps" type="serial_node" name="Emlid_Gps" output="screen"/>
+
+</launch>
